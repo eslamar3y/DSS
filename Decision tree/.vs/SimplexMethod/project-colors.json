@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b2fcb11-2121-41e4-8861-8154a737d991": {
+      "ProjectGuid": "0b2fcb11-2121-41e4-8861-8154a737d991",
+      "DisplayName": "SimplexMethod",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
